@@ -1,0 +1,6 @@
+[package]
+name = "storage_lib"
+version = "0.1.0"
+authors = ["Anton Kholetsky <kvazipolyr@gmail.com>"]
+
+[dependencies]
